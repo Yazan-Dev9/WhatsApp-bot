@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "main": "whbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yazan-Dev9",
+  "license": "ISC",
+  "description": "WhatsApp Bot use AI",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "child_process": "^1.0.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
